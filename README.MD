@@ -8,3 +8,4 @@
 #### Rebase
 * first commit in rebase branch
 * second commit in rebase branch
+* third commit in rebase branch
