@@ -10,5 +10,11 @@
 * second commit in rebase branch
 * third commit in rebase branch
 
-
 #### feature 2 development is completed
+
+#### Conflict
+* I am still working
+* completed my development
+
+
+
